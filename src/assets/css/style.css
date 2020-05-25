@@ -270,12 +270,10 @@ img.img-head {
 .facebook span {
 	background-color: #3B5998;
 }
-.pinterest span {
+.instagram span {
 	background-color: #CB2028;
 }
-.dribbble span {
-	background-color:#E04D84;
-}
+
 
 /* Icons */
 .icon i {
@@ -299,16 +297,12 @@ img.img-head {
 .icon .fa-facebook {
 	color: #3B5998;
 }
-.icon .fa-pinterest-p {
+.icon .fa-instagram {
 	color: #CB2028;
-}
-.icon .fa-dribbble {
-	color: #E04D84;
 }
 .icon:hover .fa-facebook,
 .icon:hover .fa-twitter,
-.icon:hover .fa-pinterest-p,
-.icon:hover .fa-dribbble {
+.icon:hover .fa-instagram {
 	color: white;
 }
 /*--social--*/
@@ -1075,7 +1069,7 @@ ul.product-qty {
 	color:#fff;
 }
 .fo-grid1 p a:hover {
-    color: #FAB005;
+    color: #ff6500;
 }
 .fo-grid1 p  i{
 	margin-right:7px;
@@ -1100,7 +1094,7 @@ ul.product-qty {
 .social-fo li a.twi {
     background: #4099FF;
 }
-.social-fo li a.pin {
+.social-fo li a.ins {
     background: #CD2830;
 }
 .social-fo li a.dri {
@@ -1136,7 +1130,7 @@ ul.product-qty {
     color: #ABABAB;
 }
 .footer-grid ul li a:hover{
-    color:#FAB005;
+    color:#ff6500;
 }
 
 .copy-right p {
@@ -1149,7 +1143,8 @@ ul.product-qty {
     color: #fff;
 }
 .copy-right p a:hover {
-    color: #E21737;
+    color: #ff6500;
+		text-decoration: none;
 }
 /*-- //footer --*/
 /*--product--*/
