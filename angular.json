@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hm-frontend"
+    }
+  },
+  "defaultProject": "hm-frontend",
+  "cli": {
+    "analytics": false
+  }
 }
